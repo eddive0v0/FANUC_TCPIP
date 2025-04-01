@@ -1,0 +1,27 @@
+                       TP Accounting
+
+F Number: F00000    
+VERSION : HandlingTool         
+$VERSION: V8.30340      11/9/2020
+DATE:     17-MAR-25 14:26 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                          08            1           2
+Id:  936, 1                          06            1           0
+声明                              01:06            1           0
+Id:  381, 5                          02            2           1
+顶部菜单                             06            1           2
+主机通讯                             30            1          35
+变量                                 04            1          14
+
+Full Menus:                       02:02 
+Quick Menus:                         00 
+
+MENU Popup:                                        3
+[ TYPE ] Pullup:                                   0
+
+Functions at COLD start
+
+Functions at CTRL start
+冷开机(Coldstart)                                  1
